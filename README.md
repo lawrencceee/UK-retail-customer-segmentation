@@ -6,7 +6,8 @@ This project performs **unsupervised learning** on the [UCI Online Retail Datase
 
 ## 🚀 Interactive Clustering App (Gradio)
 
-👉 Try the live demo here: (https://your-gradio-app-link.com)](https://huggingface.co/spaces/astimepassesby/UK-retail-customer-segmentation)
+👉 Try the live demo here:  
+https://your-gradio-app-link.com)](https://huggingface.co/spaces/astimepassesby/UK-retail-customer-segmentation
 
 <img width="1494" height="614" alt="image" src="https://github.com/user-attachments/assets/b52791f6-8269-4971-8669-bee47015c63a" />
 
