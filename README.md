@@ -64,6 +64,7 @@ To use **KMeans clustering** to segment customers into behavior-based groups usi
 
 ### Elbow Method & Silhouette Scores
 <img width="589" height="455" alt="4ad50cb6-5ac4-494c-8a3e-57bdff53b398" src="https://github.com/user-attachments/assets/316446f4-41eb-4df1-b033-a81199778499" />
+<img width="855" height="547" alt="b92ad41d-4a7a-43ce-a47e-e786cbc18dd7" src="https://github.com/user-attachments/assets/c6c266f4-5714-4442-bb3f-7d15f5d6dd22" />
 
 ### Cluster Distribution with PCA
 <img width="660" height="547" alt="b1fc2298-32f8-47d2-b514-5df52534d6f3" src="https://github.com/user-attachments/assets/145ee2c2-2ba8-4983-a175-78c77e4aba75" />
